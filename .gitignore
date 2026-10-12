@@ -1,0 +1,14 @@
+node_modules
+.next
+out
+dist
+.env
+.env*.local
+*.tsbuildinfo
+
+# Scratch scripts and temp data
+*.js
+*.zip
+dados/
+outputs/
+work/
